@@ -77,6 +77,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Legal
 
-MIT License ₢ 2019 Arthur Corenzan.
+MIT License © 2019 Arthur Corenzan.
 
 Escape from Tarkov and the EFT logo are the registered trademarks of Battlestate Games Limited. All rights are reserved worldwide. All other trademarks are the property of their respective owners. Escape from Tarkov, the EFT logo, Tarkov and all associated logos and designs are the intellectual property of Battlestate Games Limited. All artwork, screenshots, characters, vehicles, storylines, world facts or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of Battlestate Games Limited.
